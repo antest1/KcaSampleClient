@@ -5,6 +5,7 @@ Sample Client Application for KcaSniffer
 
 Usage
 -------
+You must install KcaSniffer before install this application.
 Check [KcaSniffer](https://github.com/antest1/KcaSniffer) for detail information.
 
 Download
